@@ -17,7 +17,7 @@ public class Exercicio1Controller {
 
     @GetMapping("/hello1")
     public String HelloWorld1() {
-        return "Hello1";
+        return "Hello6661";
     }
 
     //@PathVariable = anotacao para definir que a variavel nome que é do tipo String será recebida pelo
