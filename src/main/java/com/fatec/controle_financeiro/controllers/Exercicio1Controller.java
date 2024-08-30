@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/exercicios1")
+@RequestMapping("http://localhost:8090/api/exercicios1")
 public class Exercicio1Controller {
     
     @GetMapping()
